@@ -168,7 +168,7 @@ def table_view():
     return Container(NavBar(
         # Right side items
         Button("Toggle Animations", onclick="toggleAnimations()", cls=ButtonT.ghost),
-        A("Card View", href="/"),
+        A("Card View", href="/gallery/"),
         # Brand/title on left
         brand=DivLAligned(H1("FastHTML Gallery Table View"), UkIcon('rocket',height=30,width=30))),
         Container(*[SectionTable(section) for section in directories]))
