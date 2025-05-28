@@ -25,6 +25,7 @@
 - Multi Image Upload(https://github.com/AnswerDotAI/fasthtml-gallery/blob/main/examples/dynamic_user_interface_(htmx)/multi_image_upload/app.py)
 - Progress Bar(https://github.com/AnswerDotAI/fasthtml-gallery/blob/main/examples/dynamic_user_interface_(htmx)/progress_bar/app.py)
 - Show Hide(https://github.com/AnswerDotAI/fasthtml-gallery/blob/main/examples/dynamic_user_interface_(htmx)/show_hide/app.py)
+- Toast(https://github.com/AnswerDotAI/fasthtml-gallery/blob/main/examples/dynamic_user_interface_(htmx)/toast/app.py)
 - Two Column Grid(https://github.com/AnswerDotAI/fasthtml-gallery/blob/main/examples/dynamic_user_interface_(htmx)/two_column_grid/app.py)
 - Update Other Content(https://github.com/AnswerDotAI/fasthtml-gallery/blob/main/examples/dynamic_user_interface_(htmx)/update_other_content/app.py)
 - Web Sockets(https://github.com/AnswerDotAI/fasthtml-gallery/blob/main/examples/dynamic_user_interface_(htmx)/web_sockets/app.py)
